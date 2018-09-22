@@ -1,0 +1,39 @@
+
+img{
+    border:2px solid grey;
+    width: 30%;
+}
+article{
+    
+    font-size: 25px;
+}
+
+.list   {
+    list-style-type: none;
+    font-size: 20px;
+    
+}
+.body   {
+    margin: 1cm ;
+    background: transparent;
+    font-family: 'Titillium Web', sans-serif;
+    color: darkblue;
+}
+
+ul{
+    background: transparent;
+       
+}
+
+
+#heading    {
+    color: rgb(37, 128, 131);
+    text-align: center;
+    background: transparent;
+    
+    font-family: 'Oregano', cursive;
+    text-shadow: 4px 4px 10px #6d76b9b0;
+    letter-spacing: 2.5px;
+    font-size: 72px;
+    
+}
